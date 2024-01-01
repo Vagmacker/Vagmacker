@@ -7,6 +7,7 @@
   </a>
 </div>
 
+<br>
 
 Software Engineer, Tech Lead - Currently working at [Kingspan Isoeste](https://kingspan-isoeste.com.br).
 
@@ -29,6 +30,8 @@ I have a passion for development, innovation, technology, and I strive to learn 
   <img align="center" alt="Vagmacker-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
   <img align="center" alt="Vagmacker-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
+
+<br>
 
 - :books: Lifelong learner
 - :pushpin: Based in Goiás, Brazil
