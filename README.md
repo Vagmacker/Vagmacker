@@ -9,7 +9,7 @@
 
 <br>
 
-Software Engineer, Tech Lead - Currently working at [Kingspan Isoeste](https://kingspan-isoeste.com.br).
+Software Architect, Tech Lead - Currently working at [CI&T](https://ciandt.com/).
 
 I've been Full Stack 💻 since 2016, where I started my journey with Laravel Framework projects written in PHP for Server Side and HTML, CSS and JavaScript as Client Side. Then I went through Java 8 and Spring Boot architecture, providing REST APIs for Angular 2+ applications to consume.
 
