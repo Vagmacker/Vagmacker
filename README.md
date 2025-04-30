@@ -23,6 +23,7 @@ I have a passion for development, innovation, technology, and I strive to learn 
   <img align="center" alt="Vagmacker-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Vagmacker-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Vagmacker-Node" height="30" width="40" src="https://nodejs.org/static/images/logo.svg" />
+  <img align="center" alt="Vagmacker-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="Vagmacker-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
 </div>
 
