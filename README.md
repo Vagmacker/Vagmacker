@@ -30,7 +30,6 @@ I have a passion for development, innovation, technology, and I strive to learn 
 ### I’m currently learning
 <div style="display: inline_block">  
   <img align="center" alt="Vagmacker-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-  <img align="center" alt="Vagmacker-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 <br>
